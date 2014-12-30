@@ -1,6 +1,8 @@
 24-Solver
 =========
 
+Written in Python 2.7
+
 Finds arithmetic operations to be combined with four given numbers to make the total 24.
 
 For example if given the numbers 2 6 7 8, a valid solution would be (((2 + 7) - 6) * 8) because it equals 24. Valid operations are +,-,*,/
